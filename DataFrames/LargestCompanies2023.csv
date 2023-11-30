@@ -1,0 +1,51 @@
+,Name,Industry,Revenue,Profit,Employees,Headquarters,State-owned,Rank
+1,Walmart,Retail,611289,11680.0,2100000,United States,No,1
+2,Saudi Aramco,Oil and gas,603651,159069.0,70496,Saudi Arabia,Yes,2
+3,State Grid Corporation of China,Electricity,530009,8192.0,870287,China,Yes,3
+4,Amazon,Retail,513983,-2722.0,1541000,United States,No,4
+5,Vitol,Commodities,505000,15000.0,1560,Switzerland,No,5
+6,China National Petroleum Corporation,Oil and gas,483019,21080.0,1087049,China,Yes,6
+7,China Petrochemical Corporation,Oil and gas,471154,9657.0,527487,China,Yes,7
+8,ExxonMobil,Oil and gas,413680,55740.0,63000,United States,No,8
+9,Apple,Electronics,394328,99803.0,164000,United States,No,9
+10,Shell,Oil and gas,386201,20120.0,93000,United Kingdom,No,10
+11,UnitedHealth Group,Healthcare,324162,20120.0,400000,United States,No,11
+12,CVS Health,Healthcare,322467,4149.0,259500,United States,No,12
+13,Trafigura,Commodities,318476,6994.0,12347,Singapore,No,13
+14,China State Construction Engineering,Construction,305885,4234.0,382492,China,Yes,14
+15,Berkshire Hathaway,Financials,302089,-2282.0,383000,United States,No,15
+16,Volkswagen Group,Automotive,293685,15233.0,675805,Germany,No,16
+17,Uniper,Electricity,288309,-1996.0,7008,Germany,Yes,17
+18,Alphabet,Information technology,282836,59972.0,190234,United States,No,18
+19,McKesson,Healthcare,276711,3560.0,48000,United States,No,19
+20,Toyota,Automotive,274491,18110.0,375235,Japan,No,20
+21,TotalEnergies,Oil and gas,263310,20526.0,101279,France,No,21
+22,Glencore,Commodities,255984,17320.0,81284,Switzerland,No,22
+23,BP,Oil and gas,248891,-2487.0,67600,United Kingdom,No,23
+24,Chevron,Oil and gas,246252,35465.0,43846,United States,No,24
+25,AmerisourceBergen,Healthcare,238587,1699.0,41500,United States,No,25
+26,Samsung Electronics,Electronics,234129,42398.0,270372,South Korea,No,26
+27,Costco,Retail,226954,5844.0,304000,United States,No,27
+28,Foxconn,Electronics,222535,4751.0,767062,Taiwan,No,28
+29,Industrial and Commercial Bank of China,Financials,214766,53589.0,427587,China,Yes,29
+30,China Construction Bank,Financials,202753,48145.0,376682,China,Yes,30
+31,Microsoft,Information technology,198270,72738.0,221000,United States,No,31
+32,Stellantis,Automotive,188888,17669.0,272367,Netherlands,No,32
+33,Agricultural Bank of China,Financials,187061,38524.0,452258,China,Yes,33
+34,Ping An Insurance,Financials,181566,12454.0,344223,China,No,34
+35,Cardinal Health,Healthcare,181364,-933.0,46035,United States,No,35
+36,Cigna,Healthcare,180516,6668.0,70231,United States,No,36
+37,Marathon Petroleum,Oil and gas,180012,14516.0,17800,United States,No,37
+38,Phillips 66,Oil and gas,175702,11024.0,13000,United States,No,38
+39,Sinochem,Chemicals,173834,-1.0,220760,China,Yes,39
+40,China Railway Engineering Corporation,Construction,171669,2035.0,314792,China,Yes,40
+41,Valero Energy,Oil and gas,171189,11528.0,9743,United States,No,41
+42,Gazprom,Oil and gas,167832,17641.0,468000,Russia,Yes,42
+43,Cargill,Conglomerate,165000,,155000,United States,No,43
+44,China National Offshore Oil Corporation,Oil and gas,164762,16988.0,81775,China,Yes,44
+45,China Railway Construction Corporation,Construction,163037,1800.0,342098,China,Yes,45
+46,Baowu,Steel,161698,2493.0,245675,China,Yes,46
+47,Schwarz Gruppe,Retail,159800,,575000,Germany,No,47
+48,Mitsubishi Group,Conglomerate,159371,8723.0,79706,Japan,No,48
+49,Ford Motor Company,Automotive,158057,-1981.0,173000,United States,No,49
+50,Mercedes-Benz Group,Automotive,157403,15252.0,168797,Germany,No,50
